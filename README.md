@@ -1,1 +1,1 @@
-# telerymodule_rk
+# Модуль rk для юзербота Telery.
